@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Furkanklync
 - 👀 I’m interested in ...Sofware
-- 🌱 I’m currently learning ...Kotlin
+- 🌱 I’m currently learning ...Kotlin&Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@furkankaly1@gmail.com
 
